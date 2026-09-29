@@ -20,6 +20,12 @@ LegalEase aims to simplify this process by using Artificial Intelligence to assi
 * Demonstrate the practical application of AI in document generation.
 
 ## Key Features
+## 🔗 Project Links
+
+* **GitHub Repository:** https://github.com/prabu270/Naan-Mudhalvan
+* **Live Application:** Coming soon
+* **Demo Video:** Coming soon
+
 
 * AI-powered document generation using Google Gemini.
 * Simple and interactive Streamlit interface.
